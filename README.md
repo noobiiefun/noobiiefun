@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Yoga 👋</h1>
+<h1 align="center">Hi there, I'm Noobiie 👋</h1>
 <h3 align="center">Creative Developer • Integrations Engineer • Streaming Tech Tinkerer</h3>
 
 <p align="center">
